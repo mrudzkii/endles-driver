@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 1b63bac99d9805d48ac492fc18809065
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - droga: {fileID: 2440441791288304892, guid: f8a7e7b6e3db756429b5759a2ec85b47, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
